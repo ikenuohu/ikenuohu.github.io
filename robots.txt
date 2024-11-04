@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ikenuohu.github.io/Bue/sitemap_index.txt
+Sitemap: https://ikenuohu.github.io/XcV/sitemap_index.txt
+Sitemap: https://ikenuohu.github.io/hyU/sitemap_index.txt
+Sitemap: https://ikenuohu.github.io/xDL/sitemap_index.txt
